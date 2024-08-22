@@ -1,0 +1,10 @@
+* cm-fomus
+
+Common Music bindings for the Common Lisp version of the Fomus music
+notation processor.
+
+|---------+------------------------------------------|
+| source  | git:https://github.com/ormf/cm-fomus.git |
+| commit  | a43639c                                  |
+| systems | cm-fomus                                 |
+|---------+------------------------------------------|
