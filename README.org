@@ -5,6 +5,6 @@ notation processor.
 
 |---------+------------------------------------------|
 | source  | git:https://github.com/ormf/cm-fomus.git |
-| commit  | a43639c                                  |
+| commit  | 5360c24                                  |
 | systems | cm-fomus                                 |
 |---------+------------------------------------------|
